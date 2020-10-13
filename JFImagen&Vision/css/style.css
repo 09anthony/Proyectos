@@ -1,0 +1,43 @@
+/*General*/
+body{
+    background-color: antiquewhite;
+    background-repeat: repeat;
+}
+.vista{
+    display: none;
+}
+/*Login*/
+#login .form-control{
+    border-radius: 0;
+    border: none;
+}
+#login .btn{
+    border-radius: 0;
+    color: white;
+    border: none;
+    font-weight: bold;
+}
+#login .btn:hover{
+    cursor: pointer;
+}
+#entrar{
+    background-color: darkorange;
+}
+#entrar:hover{
+    background-color: white;
+    color: darkorange;
+}
+#registro{
+    background-color: darkorange;
+}
+#registro:hover{
+    background-color: white;
+    color: darkorange;
+}
+#enviar{
+    background-color: darkorange;
+}
+#enviar:hover{
+    background-color: white;
+    color: darkorange;
+}
